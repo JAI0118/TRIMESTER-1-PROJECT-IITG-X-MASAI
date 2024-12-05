@@ -7,9 +7,7 @@ This project is a C++ program that solves the Traveling Salesman Problem (TSP) u
 - [Description](#description)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Example](#example)
-- [Code Explanation](#code-explanation)
-- [License](#license)
+
 
 ## Description
 
